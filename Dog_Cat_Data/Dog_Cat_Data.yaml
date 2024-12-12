@@ -1,0 +1,7 @@
+names:
+- cat
+- dog
+nc: 2
+test: D:\Python_Pytorch_Workspace\Jupyter_Test\Dog_Cat_Data\test\images\\
+train: D:\Python_Pytorch_Workspace\Jupyter_Test\Dog_Cat_Data\train\images\\
+val: D:\Python_Pytorch_Workspace\Jupyter_Test\Dog_Cat_Data\valid\images\\
